@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Python Basics",
+        "author": "John"
+    },
+    {
+        "id": 2,
+        "title": "Clean Code",
+        "author": "Robert"
+    },
+    {
+        "id": 3,
+        "title": "Atomic Habits",
+        "author": "James"
+    },
+    {
+        "id": 4,
+        "title": "Deep Work",
+        "author": "Cal Newport"
+    }
+]
